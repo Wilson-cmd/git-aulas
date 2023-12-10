@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+
+    --fontColor: rgb(0, 140, 201);
+}
+
+.title{
+
+    text-transform: uppercase;
+    text-align: center;
+    color: var(--fontColor);
+    font-family: sans-serif;
+    
+}
