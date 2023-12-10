@@ -17,3 +17,8 @@
     color: var(--fontColor);
     
 }
+
+.ulist{
+    margin-left: 25px;
+    color: var(--fontColor);
+}
