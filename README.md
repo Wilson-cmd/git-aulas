@@ -1,2 +1,2 @@
 # git-aulas
-Comandos basicos ref. o git
+Comandos basicos git
