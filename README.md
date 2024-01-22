@@ -1,2 +1,2 @@
-# git-aulas
+# Git Bash
 Comandos basicos git
