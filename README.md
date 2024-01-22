@@ -15,6 +15,13 @@
 
 ## Link Google
 [Link Google](https://www.google.com)
-<br>
+<br><br>
 Link Google: https://www.google.com
 
+
+
+# Incluindo o coódigo:
+
+```Python
+print("Olá mundo"!)
+```
