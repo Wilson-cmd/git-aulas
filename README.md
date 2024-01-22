@@ -1,4 +1,4 @@
-# Git Bash
+# Markdown
 ### Comandos basicos git:
 
 * 01 command
@@ -27,3 +27,11 @@ Link Google: https://www.google.com
 
 console.log('ola')
 ```
+
+<br><br>
+# Listas de tarefas pendentes:
+- [x] Primeira parte
+# Lista de tarefas concluidas:
+- [ ] Segunda parte
+
+
