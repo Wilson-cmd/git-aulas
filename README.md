@@ -22,6 +22,8 @@ Link Google: https://www.google.com
 
 # Incluindo o coódigo:
 
-```Python
-print("Olá mundo"!)
+```javascript
+
+
+console.log('ola')
 ```
